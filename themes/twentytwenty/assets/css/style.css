@@ -59,6 +59,10 @@ body {
   padding: 0;
 }
 
+*:focus {
+  outline: none;
+}
+
 h1,
 h2,
 h3,
