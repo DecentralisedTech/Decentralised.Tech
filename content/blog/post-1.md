@@ -1,6 +1,7 @@
 ---
 title: "New Design"
-date: 2020-03-14T15:40:24+06:00
+date: 2020-07-26T01:53:47.661Z
+#date: 2020-07-25T15:40:24+06:00
 image: "images/Landing-01.jpg"
 # author
 author: ["James Galbraith"]

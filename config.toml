@@ -53,10 +53,10 @@ name = "Contact"
 URL = "contact"
 weight = 4
 
-[[menu.main]]
-name = "Sample Page"
-URL = "sample-page"
-weight = 5
+#[[menu.main]]
+#name = "Sample Page"
+#URL = "sample-page"
+#weight = 5
 
 # only desktop menu
 [[menu.desktop]]
@@ -92,7 +92,7 @@ button_url = "contact"
 
 # gallery
 [params.gallery]
-enable = true
+enable = false
 
   [[params.gallery.gallery_item ]]
   image = "images/2020-square-2.png"

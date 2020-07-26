@@ -6,4 +6,8 @@ description: "This is meta description"
 draft: false
 ---
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+Blockchain and Web3 developers building the next generation of the web.
+We are passionate about opensource and decentralisation.
+
+If you think your business could benifit from decentralisation or blockchain applications contact us for a consultation.
+
